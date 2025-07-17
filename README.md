@@ -23,7 +23,7 @@ Hardware Components needed for assembly:
 - female pin headers for Arduino (optional but recommended)
 - 6N137 Optocoupler
 - 220 Ohm resistor
-- 2kOhm resistor
+- 470 Ohm resistor
 - 3A THT Fuse
 - DC barrel jack socket
 - DC 5V, >= 3A Power Supply with barrel jack (Negative Outside, Positive Inside), (depends on number of LEDs)
